@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aaah!/Aaah!.iml" filepath="$PROJECT_DIR$/Aaah!/Aaah!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnotherBrick/AnotherBrick.iml" filepath="$PROJECT_DIR$/AnotherBrick/AnotherBrick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apaxiaaaaaaaaaaaans!/Apaxiaaaaaaaaaaaans!.iml" filepath="$PROJECT_DIR$/Apaxiaaaaaaaaaaaans!/Apaxiaaaaaaaaaaaans!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Autori/Autori.iml" filepath="$PROJECT_DIR$/Autori/Autori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Baby bites/Baby bites.iml" filepath="$PROJECT_DIR$/Baby bites/Baby bites.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beekeeper/Beekeeper.iml" filepath="$PROJECT_DIR$/Beekeeper/Beekeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello world/Hello world.iml" filepath="$PROJECT_DIR$/Hello world/Hello world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kattis.iml" filepath="$PROJECT_DIR$/Kattis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
